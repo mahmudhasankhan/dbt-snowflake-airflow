@@ -24,5 +24,5 @@ And by running `astro dev start` the airflow UI pops up where you can trigger yo
 It should look like this
 
 <p>
-    <img src='./assets/images/dbt_airflow.png' alt="Airflow">
+    <img src='./assets/images/dbt_airflow.PNG' alt="Airflow">
 </p>
